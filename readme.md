@@ -1,6 +1,7 @@
 ## dual-blend
 
 Utilizes the classic "white print / black print" layer trick to merge a light-source image and a dark-source image into one RGBA asset.
+<img width="1224" height="1030" alt="image" src="https://github.com/user-attachments/assets/357d5ea4-c925-41db-87f5-3cdab1146ad6" />
 
 ### Requirements
 - Python 3.9+
